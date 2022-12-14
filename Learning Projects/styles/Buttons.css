@@ -1,0 +1,176 @@
+.subscribe {
+    background-color: rgb(204, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    
+
+}
+.subscribe:hover{
+    opacity: 0.7;
+}
+.subscribe:active{
+    opacity: 0.5;
+
+}
+
+
+.Join {
+    background-color: white;
+    color: rgb(41, 118, 211);
+    border-color: rgb(41, 118, 211);
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: background-color 0.50s, color 0.50s;
+    padding-left: 16px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-right: 16px;
+
+
+}
+.Join:hover{
+    background-color: rgb(41, 118, 211);
+    color: white;
+}
+.Join:active{
+    opacity: 0.6;
+}
+
+
+
+.tweet {
+    color: white;
+    background-color: rgb(2, 137 ,255);
+    height: 36px;
+    width: 70px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 8px;
+    transition: box-shadow 0.3s;
+}
+.tweet:hover{
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15)
+}
+
+
+.Uber{
+    background-color: black;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0,0, 0.4);
+
+}
+.Uber:active{
+    margin-top: 10px;
+    margin-left: 2px;
+    box-shadow: none;
+    
+
+
+}
+
+
+.Amazon{
+    background-color: yellow;
+    color: black;
+    width: 180px;
+    height: 36px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.Github{
+    background-color: rgb(114, 224, 114);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: padding-right 0.50s,padding-left 0.50s;
+}
+.Github:hover{
+    
+    padding-left: 12px;
+    padding-right: 12px;
+    
+}
+
+
+.Bootstrap1{
+    background-color: rgb(130, 79, 179);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    width: 105px;
+    height: 36px;
+    cursor: pointer;
+    margin-right: 6px;
+}   
+
+
+.Bootstrap2{
+    background-color: white;
+    color: gray;
+    width: 105px;
+    height: 36px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    cursor: pointer;
+    margin-right: 6px;
+}
+
+
+.Linkedin1{
+    background-color: rgb(57, 95, 234);
+    color: white;
+    width: 220px;
+    height: 36px;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+.Linkedin2{
+    background-color: white;
+    height: 36px;
+    width: 80px;
+    color: rgb(57, 95, 234);
+    border-radius: 25px;
+    border-color: rgb(57, 95, 234);
+    border-width: 1px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 4px;
+
+}
